@@ -37,3 +37,17 @@
 /Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/System.CodeDom.dll
 /Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.CopyComplete
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/MassTransit.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/MassTransit.Abstractions.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/MassTransit.RabbitMqTransport.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/Contracts.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/Contracts.pdb
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/MassTransit.EntityFrameworkCoreIntegration.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/AuctionService/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll

@@ -1,0 +1,12 @@
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/bin/Debug/net7.0/Contracts.deps.json
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/bin/Debug/net7.0/Contracts.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/bin/Debug/net7.0/Contracts.pdb
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/obj/Debug/net7.0/Contracts.csproj.AssemblyReference.cache
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/obj/Debug/net7.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfoInputs.cache
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfo.cs
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/obj/Debug/net7.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/obj/Debug/net7.0/Contracts.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/obj/Debug/net7.0/refint/Contracts.dll
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/obj/Debug/net7.0/Contracts.pdb
+/Users/vukliuk/Desktop/Projects/Bytender/src/Contracts/obj/Debug/net7.0/ref/Contracts.dll
