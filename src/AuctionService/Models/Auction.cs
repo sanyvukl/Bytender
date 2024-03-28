@@ -15,6 +15,7 @@ namespace AuctionService.Models
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;
         public DateTime AuctionEnd { get; set; }
+        //TODO: Change to string, or add converter
         public Status Status { get; set; }
         public Item Item { get; set; }
     }
